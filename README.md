@@ -12,7 +12,7 @@
 
 <br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,linux,arch,ubuntu,neovim,vim&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,linux,arch,mint,ubuntu,neovim,vim&perline=8"/>
 </p>
 
 </p>
@@ -21,8 +21,9 @@
 
 # Stats 📈
 
-<img width=351 src="https://readme-stats-spelljinxer.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true&show_icons=true"><br>
-<img width=294 src="https://readme-stats-spelljinxer.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&theme=dracula&custom_title=Top&nbsp;Languages"/><br>
+<img width=351 src="https://readme-stats-spelljinxer.vercel.app/api?username=PinkMath&theme=dracula&show_icons=true&count_private=true&show_icons=true"><br>
+
+<img width=294 src="https://readme-stats-spelljinxer.vercel.app/api/top-langs?username=PinkMath&layout=compact&theme=dracula&custom_title=Top&nbsp;Languages"/><br>
 <!-- Streak API-->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/> -->
 
@@ -33,14 +34,13 @@
 # Links 📤
 
 <a href="https://steamcommunity.com/profiles/76561198938552178/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
+
 <a href="https://open.spotify.com/user/7ctfwc0vf2mhgll04f7z6tenl?si=6268bf72b22d4392"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
- 
-<br><br>
-<img align="center" width=45% src="./img/cat2.gif"><br><br>
 
 </div>
 
 <div align="center">
+  
 ```scala
 "jus vibin"
 - someone, probably. idk
