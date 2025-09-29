@@ -33,9 +33,16 @@
 
 # Links 📤
 
-<a href="https://steamcommunity.com/profiles/76561198938552178/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://steamcommunity.com/profiles/76561198938552178/">
+<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+</a>
 
-<a href="https://open.spotify.com/user/7ctfwc0vf2mhgll04f7z6tenl?si=6268bf72b22d4392"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://open.spotify.com/user/7ctfwc0vf2mhgll04f7z6tenl?si=6268bf72b22d4392">
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
+
+<br>
+<br>
 
 </div>
 
