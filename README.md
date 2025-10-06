@@ -14,7 +14,7 @@
 
 <br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,linux,arch,mint,ubuntu,neovim,vim&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,linux,neovim,vim&perline=8"/>
 </p>
 
 </p>
