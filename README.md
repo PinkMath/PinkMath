@@ -1,7 +1,9 @@
 
-<img align="center" width="1170" height="350" alt="image" src="https://github.com/user-attachments/assets/ee3f11e8-6a0a-4292-8977-cd78c7395686" />
+<img align="center" width="1170" height="340" alt="image" src="https://github.com/user-attachments/assets/ee3f11e8-6a0a-4292-8977-cd78c7395686" />
 
 <p align="center">
+  <br>
+  <br>
   <img src="./img/cat2.gif" alt="cat" width="150">
 </p>
 <div align="center">
