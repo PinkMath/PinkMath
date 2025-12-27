@@ -52,6 +52,5 @@
   
 ```scala
 "jus vibin"
-- someone, probably. idk
 ```
 </div>
