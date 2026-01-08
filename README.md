@@ -1,16 +1,11 @@
-<p align="center">
-  <br>
-  <img src="./img/cat2.gif" alt="cat" width="150">
-</p>
 <div align="center">
-
-# Hello! 👋
-
+  
+# Specialties 🚩
 </div>
 
 <br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,linux,neovim,vim&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,linux,nodejs,mysql,postgresql&perline=8"/>
 </p>
 
 </p>
